@@ -1,1 +1,1 @@
-haele remote1
+haele remote1 remote2
